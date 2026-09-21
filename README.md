@@ -1,5 +1,8 @@
 # Code Workflow
 
+Master Thesis: 
+Metaheuristic Optimization of a Path-Based Network Flow Problem via Discrete Door Incentives
+
 This README describes the current Python code in `core/`, `algorithms/`, and `experiments/`. It follows the functions that the experiment scripts call.
 
 ## Workflow map
